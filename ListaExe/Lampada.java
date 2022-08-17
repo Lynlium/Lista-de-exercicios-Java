@@ -1,4 +1,6 @@
 package ListaExe;
+///* Imagine uma lâmpada que possa ter três estados: apagada, acesa e meia-luz. Usando o modelo
+//Lampada (listagem 1.1) como base, escreva o modelo LampadaTresEstados */
 
 public class Lampada {
     public static void main(String[] args) {
